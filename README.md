@@ -2,7 +2,7 @@
 
 This repository contains only the documentation for the Smart Home IoT MERN project.
 
-- **Main project repository:** [smart-home-iot-mern](https://github.com/Ashurai84/smart-home-iot-mern)
+- **Main backend project repository:** [smart-home-iot-mern](https://github.com/Ashurai84/smart-home-iot-mern)
 - **This repo:** Only hosts the API documentation as a static HTML site for reference and sharing.
 
 - **Live documentation:** [https://ashurai84.github.io/Documentition-of-smarthome-iot/](https://ashurai84.github.io/Documentition-of-smarthome-iot/)
